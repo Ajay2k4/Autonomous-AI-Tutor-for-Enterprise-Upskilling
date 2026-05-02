@@ -130,39 +130,11 @@ Frontend:
 
 ---
 
-## Project Structure
-
-project/
-│
-├── agents/
-│   ├── user_profiling_agent.py
-│   ├── skill_gap_agent.py
-│   ├── curriculum_agent.py
-│   ├── tutor_agent.py
-│   ├── assessment_agent.py
-│
-├── orchestrator/
-│   └── graph.py
-│
-├── services/
-│   ├── llm_service.py
-│   ├── knowledge_service.py
-│
-├── database/
-│   ├── vector_db/
-│   ├── sql_db/
-│
-├── frontend/
-│   ├── src/
-│
-├── main.py
-
----
 
 ## Setup Instructions
 
 1. Clone the repo
-git clone https://github.com/your-username/autonomous-ai-tutor.git
+git clone [https://github.com/your-username/autonomous-ai-tutor](https://github.com/Ajay2k4/Autonomous-AI-Tutor-for-Enterprise-Upskilling).git
 cd autonomous-ai-tutor
 
 2. Install dependencies
