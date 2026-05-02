@@ -1,0 +1,218 @@
+{
+    "AI Engineer": {
+        "skills": {
+            "Python": 5,
+            "Machine Learning": 5,
+            "LLM Fine-tuning": 5,
+            "RAG & Agents": 4,
+            "Prompt Engineering": 4,
+            "Deep Learning": 4,
+            "Neural Networks": 4,
+            "Docker": 4,
+            "Kubernetes": 3,
+            "AWS/Azure AI": 4,
+            "MLOps": 4,
+            "Data Pipelines": 3,
+            "Model Evaluation": 4
+        }
+    },
+    "Generative AI Engineer": {
+        "skills": {
+            "Python": 5,
+            "LLM Integration": 5,
+            "Prompt Engineering": 5,
+            "API Development": 4,
+            "Vector Databases": 4,
+            "RAG Systems": 4,
+            "Cloud Platforms": 4,
+            "FastAPI": 3,
+            "Model Context Protocol (MCP)": 4,
+            "Embeddings": 4,
+            "AWS SageMaker": 3,
+            "Azure OpenAI": 3
+        }
+    },
+    "Machine Learning Engineer": {
+        "skills": {
+            "Python": 5,
+            "TensorFlow": 5,
+            "PyTorch": 5,
+            "Machine Learning": 5,
+            "Statistics": 4,
+            "SQL": 4,
+            "Data Engineering": 3,
+            "MLOps": 4,
+            "Model Deployment": 4,
+            "AWS/GCP ML": 3,
+            "Scikit-Learn": 4,
+            "Hugging Face": 4
+        }
+    },
+    "Data Engineer": {
+        "skills": {
+            "Python": 5,
+            "SQL": 5,
+            "Data Pipelines": 5,
+            "Kafka": 4,
+            "Spark": 4,
+            "Docker": 4,
+            "Kubernetes": 3,
+            "Data Quality": 4,
+            "Cloud Platforms": 4,
+            "ETL/ELT": 4,
+            "Airflow": 3,
+            "AWS Glue": 3
+        }
+    },
+    "Data Scientist": {
+        "skills": {
+            "Python": 4,
+            "Machine Learning": 4,
+            "Statistics": 5,
+            "SQL": 4,
+            "Data Visualization": 4,
+            "Statistical Analysis": 4,
+            "Pandas/NumPy": 4,
+            "Tableau/PowerBI": 3,
+            "A/B Testing": 3,
+            "Deep Learning": 3,
+            "Data Communication": 4
+        }
+    },
+    "Cloud Solutions Architect": {
+        "skills": {
+            "AWS/Azure/GCP": 5,
+            "System Design": 5,
+            "Cloud Security": 4,
+            "Kubernetes": 4,
+            "Infrastructure as Code": 4,
+            "Terraform": 4,
+            "Network Architecture": 3,
+            "Cost Optimization": 4,
+            "AI/ML Integration": 3,
+            "Scalability Design": 4,
+            "High Availability": 4
+        }
+    },
+    "DevOps Engineer": {
+        "skills": {
+            "Docker": 5,
+            "Kubernetes": 5,
+            "CI/CD": 5,
+            "GitHub Actions": 4,
+            "Infrastructure as Code": 4,
+            "Terraform": 4,
+            "AWS/Azure": 4,
+            "Monitoring": 4,
+            "Linux": 4,
+            "Git": 4,
+            "ArgoCD": 3,
+            "AI Deployment": 3
+        }
+    },
+    "Cloud Security Engineer": {
+        "skills": {
+            "Cloud Platforms": 5,
+            "IAM": 5,
+            "Network Security": 4,
+            "Encryption": 4,
+            "Compliance": 4,
+            "Threat Detection": 4,
+            "Incident Response": 4,
+            "Cloud Hardening": 4,
+            "DevSecOps": 4,
+            "Kubernetes Security": 3,
+            "AI Security": 3
+        }
+    },
+    "Backend Developer": {
+        "skills": {
+            "Python": 5,
+            "SQL": 5,
+            "REST APIs": 4,
+            "Node.js": 4,
+            "Docker": 4,
+            "FastAPI": 4,
+            "Django/Flask": 4,
+            "Databases": 4,
+            "Microservices": 3,
+            "Redis": 3,
+            "Async Programming": 3,
+            "GraphQL": 3
+        }
+    },
+    "Frontend Developer": {
+        "skills": {
+            "JavaScript": 5,
+            "React": 5,
+            "HTML/CSS": 5,
+            "TypeScript": 4,
+            "REST APIs": 4,
+            "Vue/Angular": 3,
+            "State Management": 4,
+            "UI/UX": 3,
+            "Performance Optimization": 3,
+            "Web Security": 3,
+            "AI Integration": 3
+        }
+    },
+    "Full Stack Developer": {
+        "skills": {
+            "JavaScript": 5,
+            "React": 5,
+            "Python": 4,
+            "SQL": 4,
+            "Node.js": 5,
+            "REST APIs": 4,
+            "Docker": 3,
+            "TypeScript": 3,
+            "Database Design": 3,
+            "Git": 4,
+            "AWS/Cloud": 3
+        }
+    },
+    "Platform Engineer": {
+        "skills": {
+            "Kubernetes": 5,
+            "Docker": 5,
+            "Infrastructure as Code": 5,
+            "Terraform": 4,
+            "CI/CD": 4,
+            "AWS/Azure/GCP": 4,
+            "Observability": 4,
+            "Helm": 3,
+            "Service Mesh": 3,
+            "API Gateway": 3,
+            "Cost Management": 3
+        }
+    },
+    "Cybersecurity Engineer": {
+        "skills": {
+            "Network Security": 5,
+            "Encryption": 4,
+            "Threat Analysis": 4,
+            "Compliance": 4,
+            "Penetration Testing": 3,
+            "Cloud Security": 4,
+            "Incident Response": 4,
+            "IAM": 4,
+            "Vulnerability Assessment": 4,
+            "DevSecOps": 3,
+            "AI Security": 3
+        }
+    },
+    "Database Administrator": {
+        "skills": {
+            "SQL": 5,
+            "Database Design": 5,
+            "Performance Tuning": 4,
+            "Backup & Recovery": 4,
+            "PostgreSQL/MySQL": 4,
+            "MongoDB": 3,
+            "Data Replication": 3,
+            "Cloud Databases": 3,
+            "Security": 3,
+            "Query Optimization": 4
+        }
+    }
+}

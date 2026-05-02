@@ -1,0 +1,43 @@
+# =========================
+# Environment & Secrets
+# =========================
+.env
+venv/
+env/
+
+# =========================
+# Databases & Data Stores
+# =========================
+# Ignore local SQLite database
+tutor_app.db
+
+# Ignore ChromaDB generated vector data
+data/vector_db/
+
+# Ignore Knowledge Base documents
+data/knowledge_base/
+
+# =========================
+# Python
+# =========================
+# Globally ignore all __pycache__ directories and compiled files
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# =========================
+# Frontend (React/Vite)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.npm/
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+.vscode/
+.idea/
